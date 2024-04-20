@@ -2,6 +2,7 @@
 
   Here's how the project structure looks like:
 
+```
   Project
      Build
         This is where you will run the build command
@@ -20,4 +21,4 @@
      Vendors
         - git clone ....
         - glad/include, glad.c
- 
+ ```
