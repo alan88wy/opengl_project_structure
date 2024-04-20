@@ -22,3 +22,5 @@
         - git clone ....
         - glad/include, glad.c
  ```
+
+Use this to create the project struture for all my OpenGL projects.
